@@ -56,16 +56,14 @@ body {
     color: var(--primary-neutral-clr);
     background-color: var(--secondary-clr2);
     height: 100vh;
-    display: grid;
-    place-items: center;
-    text-align: center;
+  
 }
 
 .main-div {
     width: 26rem;
     background-color: var(--secondary-clr);
     padding: 1.5rem;
-    display: grid;
+    display: grid;  
     place-items: center;
     gap: 2rem;
     border-radius: .5rem;
